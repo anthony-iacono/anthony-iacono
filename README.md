@@ -56,7 +56,7 @@ From deployments overseas to competition dance floors, the same curiosity and lo
 
 Want to learn more about my work? Visit my portfolio on [Terminal](https://terminal.turing.edu/profiles/1053).
 
-Want to connect? Message me and I'd be happy to!
+Want to connect?
 
 <a href="mailto:anthony.iacono@protonmail.com">![anthony.iacono@protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/anthony-iacono/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
