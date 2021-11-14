@@ -3,6 +3,8 @@ I'm Anthony, a software engineer at the Turing School of Software & Design.
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=anthony-iacono&count_private=true&show_icons=true&hide=stars)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-iacono&layout=compact)
+
 From deployments overseas to competition dance floors, the same curiosity and love of learning that defined my service as a soldier and teacher now fuel my creative work building impactful apps as a software engineer. Here are the skills, qualities, and experience I bring to a team: 
 
 **Frontend**: React | TypeScript | JavaScript | CSS | HTML
@@ -22,3 +24,5 @@ From deployments overseas to competition dance floors, the same curiosity and lo
 Want to learn more about my work? Visit my portfolio on [Terminal](https://terminal.turing.edu/profiles/1053).
 
 Want to connect? Message me on [LinkedIn](https://www.linkedin.com/in/anthony-iacono/) and I'd be happy to connect!
+
+*GitHub Stats card courtesy of [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
