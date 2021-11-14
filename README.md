@@ -3,7 +3,7 @@ I'm Anthony, a software engineer at the Turing School of Software & Design.
 
 <a href="mailto:anthony.iacono@protonmail.com">![anthony.iacono@protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
 <a href="<https://turingschool.slack.com/team/U020KFN1R8A>">![anthony.iacono@protonmail.com](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)</a>
-<a href="<https://www.linkedin.com/in/anthony-iacono/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/anthony-iacono/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=anthony-iacono&count_private=true&show_icons=true&hide=stars)
 
