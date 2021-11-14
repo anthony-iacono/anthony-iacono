@@ -5,6 +5,8 @@ I'm Anthony, a software engineer at the Turing School of Software & Design.
 
 From deployments overseas to competition dance floors, the same curiosity and love of learning that defined my service as a soldier and teacher now fuel my creative work building impactful apps as a software engineer. Here are the skills, qualities, and experience I bring to a team: 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-iacono&layout=compact)
+
 **Frontend**
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -46,10 +48,6 @@ From deployments overseas to competition dance floors, the same curiosity and lo
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
-| Functional/OOP | Wireframing | UX/UI | Accessibility
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-iacono&layout=compact)
-
 **I learn best by getting my hands dirty solving real-world problems.** While training to become an Arabic/Chinese linguist in the military, I realized that the sooner I grappled with difficult, authentic language material, the more I learned. The same grit and growth mindset I developed in training and on deployment have enabled me to hit the ground running as a software engineer solving new problems each day.
 
 **I have an insatiable curiosity and love of learning** that drive me to continuously expand my knowledge, build my skillset, and challenge the status quo. As a dance instructor, I spent hours before and after work each day with senior instructors and coaches refining my technical skills as a dancer and my soft skills as a teacher. Now that I am a software engineer, I apply these same habits to learning all that I can from my colleagues, supervisors, and mentors, allowing me to build better products with each iteration.
@@ -58,11 +56,11 @@ From deployments overseas to competition dance floors, the same curiosity and lo
 
 Want to learn more about my work? Visit my portfolio on [Terminal](https://terminal.turing.edu/profiles/1053).
 
+Want to connect? Message me and I'd be happy to!
+
 <a href="mailto:anthony.iacono@protonmail.com">![anthony.iacono@protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/anthony-iacono/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://turingschool.slack.com/team/U020KFN1R8A">![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)</a>
-
-Want to connect? Message me on [LinkedIn](https://www.linkedin.com/in/anthony-iacono/) and I'd be happy to connect!
 
 *Badges courtesy of [Shields IO](https://shields.io/) and [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)*
 
