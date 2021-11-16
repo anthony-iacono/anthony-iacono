@@ -1,13 +1,16 @@
 ### Hi there 👋
-I'm Anthony, a software engineer at the Turing School of Software & Design.
+I'm Anthony Iacono, a software engineer at the Turing School of Software & Design.
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=anthony-iacono&count_private=true&show_icons=true&hide=stars)
+## Overview 
 
-From deployments overseas to competition dance floors, the same curiosity and love of learning that defined my service as a soldier and teacher now fuel my creative work building impactful apps as a software engineer. Here are the skills, qualities, and experience I bring to a team: 
+From deployments overseas to competition dance floors, the same curiosity and love of learning that defined my service as a soldier and teacher now fuel my creative work building impactful apps as a software engineer. Here you'll find the skills, qualities, and experience I bring to a team. 
+
+## Technologies & Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-iacono&layout=compact)
 
-**Frontend**
+### Frontend
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -19,40 +22,41 @@ From deployments overseas to competition dance floors, the same curiosity and lo
 ![](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 
-**Backend**
+### Backend
 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-**Testing**
+### Testing
 
 ![](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)	
 ![](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 
-**Other**
+### Other
 
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+## About Me
 
 **I learn best by getting my hands dirty solving real-world problems.** While training to become an Arabic/Chinese linguist in the military, I realized that the sooner I grappled with difficult, authentic language material, the more I learned. The same grit and growth mindset I developed in training and on deployment have enabled me to hit the ground running as a software engineer solving new problems each day.
 
 **I have an insatiable curiosity and love of learning** that drive me to continuously expand my knowledge, build my skillset, and challenge the status quo. As a dance instructor, I spent hours before and after work each day with senior instructors and coaches refining my technical skills as a dancer and my soft skills as a teacher. Now that I am a software engineer, I apply these same habits to learning all that I can from my colleagues, supervisors, and mentors, allowing me to build better products with each iteration.
 
 **I'm at my best on teams that value close collaboration and direct feedback.** In my work as a military linguist, I built collaborative relationships within and across teams to collect and share relevant, time-sensitive information that helped ensure the safety of everyone on base. Our success was built on the trust we had in each other, and the trust others placed in us. My work as a software engineer places similar emphasis on teamwork and trustworthiness, whether I'm giving honest feedback in code reviews, addressing security vulnerabilities, or doing any of the other things, big and small, that secure the confidence of the end user.
+
+## Contact
 
 Want to learn more about my work? Visit my portfolio on [Terminal](https://terminal.turing.edu/profiles/1053).
 
@@ -62,6 +66,8 @@ Want to connect?
 <a href="https://www.linkedin.com/in/anthony-iacono/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://turingschool.slack.com/team/U020KFN1R8A">![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)</a>
 
-*Badges courtesy of [Shields IO](https://shields.io/) and [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)*
+#### Credits
 
-*GitHub Stats and Most Used Languages cards courtesy of [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)*
+Badges courtesy of [Shields IO](https://shields.io/) and [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
+GitHub Stats and Most Used Languages cards courtesy of [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
