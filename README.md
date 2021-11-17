@@ -1,8 +1,9 @@
-### Hi there 👋
-I'm Anthony Iacono, a software engineer at the Turing School of Software & Design.
+## Overview
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=anthony-iacono&count_private=true&show_icons=true&hide=stars)
-## Overview 
+
+#### Hi there 👋
+I'm Anthony Iacono, a software engineer at the Turing School of Software & Design.
 
 From deployments overseas to competition dance floors, the same curiosity and love of learning that defined my service as a soldier and teacher now fuel my creative work building impactful apps as a software engineer. Here you'll find the skills, qualities, and experience I bring to a team. 
 
