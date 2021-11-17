@@ -1,4 +1,4 @@
-![coding copy w name white center](https://user-images.githubusercontent.com/72999840/142281631-66abf7ae-f39a-4354-955d-ab1be3eed4e7.png)
+![coding copy](https://user-images.githubusercontent.com/72999840/142285967-dd07329d-9559-48fe-a1d4-389136fad074.png)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=anthony-iacono&count_private=true&show_icons=true&hide=stars)
 
