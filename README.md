@@ -46,13 +46,10 @@ From deployment overseas to competition dance floors, the same curiosity and lov
 
 ## Contact
 
-Want to learn more about my work? Visit my portfolio on [Terminal](https://terminal.turing.edu/profiles/1053).
-
 Want to connect?
 
-<a href="mailto:anthony.iacono@protonmail.com">![anthony.iacono@protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
+<a href="mailto:anthony.iacono@proton.me">![anthony.iacono@proton.me](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/anthony-iacono/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://turingschool.slack.com/team/U020KFN1R8A">![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)</a>
 
 #### Credits
 
